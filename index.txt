@@ -31,7 +31,7 @@
     <div class="hx-layout">
      <main class="hx-content">
       <div class="wfTitle___Y-ebx">
-       杨鹏越的学生请假出门条（三天内）
+       张诗玉的学生请假出门条（三天内）
       </div>
       <div class="hx-detail">
        <div class="hx-detail-group">
@@ -47,7 +47,7 @@
        <span class="hx-detail-item-label">姓名</span>
        <div class="hx-detail-item-field">
         <div class="am-flexbox am-flexbox-justify-start am-flexbox-align-center">
-         杨鹏越(202004194011)
+         张诗玉(202004194003)
         </div>
        </div>
       </div>
@@ -57,7 +57,7 @@
        <div class="hx-detail-item">
         <span class="hx-detail-item-label">学号</span>
         <div class="hx-detail-item-field">
-         202004194011        </div>
+         202004194003        </div>
        </div>
        <div class="hx-detail-item">
         <span class="hx-detail-item-label">性别</span>
@@ -120,7 +120,7 @@
          <div class="hx-detail-item">
           <span class="hx-detail-item-label">请假事由</span>
           <div class="hx-detail-item-field">
-           作画          </div>
+           办身份证          </div>
          </div>
          <div class="hx-detail-item">
           <span class="hx-detail-item-label">联系方式</span>
@@ -140,7 +140,7 @@
          <div class="hx-detail-item">
           <span class="hx-detail-item-label">目的地</span>
           <div class="hx-detail-item-field">
-           聚贤街          </div>
+           派出所          </div>
          </div>
          <div class="hx-detail-item">
           <span class="hx-detail-item-label">使用交通工具</span>
@@ -151,7 +151,7 @@
           <span class="hx-detail-item-label">上传自拍照及请假证明材料</span>
           <div class="hx-detail-item-field">
            <div class="hx-detail-image">
-            <img src="./工作流_files/31.jpg" alt="" style="margin-right: 10px; width: 84.6667px;
+            <img src="./工作流_files/66.jpg" alt="" style="margin-right: 10px; width: 84.6667px;
     height: 84.6667px; margin-bottom: 10px;">
            </div>
           </div>
